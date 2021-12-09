@@ -1,0 +1,9 @@
+{
+    "policyId": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da",
+    "name": "CHEFF", 
+    "symbol": "CHEFF", 
+    "website": "https://www.cheffpool.com/cheffswap", 
+    "description": "Cheff is a tradeable token distributed exclusively for CHEFF pool delegators.",
+    "totalSupply": 1000000000,
+    "amounts": [200000, 500000, 1000000, 2000000]
+}
